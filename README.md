@@ -2,6 +2,7 @@ Description
 
 
 This project is a Java-based electricity billing software designed to automate the billing process for utility companies. It features a user-friendly graphical interface for input and output, built using Swing and AWT, and integrates with a MySQL database for secure data management.
+
 Features
 
 1> User-friendly GUI built with Java Swing and AWT.
